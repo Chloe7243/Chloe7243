@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning C# 🙃 cause I want to build games. Should I use C++ instead? 🤔
 
-- 📫 How to reach me: x:[just__steph_](https://x.com/just__steph_) mail:[stephanieoluoha20@gmail.com](stephanieoluoha20@gmail.com)
+- 📫 How to reach me: x: [just__steph_](https://x.com/just__steph_) mail: [stephanieoluoha20@gmail.com](mailto:stephanieoluoha20@gmail.com)
 
 <!--
 **Chloe7243/Chloe7243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
