@@ -6,8 +6,6 @@
 
 <img  width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloe7243&theme=radical&layout=compact"/>
 
-- 🔭 I’m collaborating with [delgo](https://github.com/ifeanyianyanwu)  on a project called TEMS/TEND (still contemplating on the name 👀). It's a ticket and event management system with some crazy features. 🙂‍↕️
-
 - 🌱 I’m currently learning C# 🙃 cause I want to build games. Should I use C++ instead? 🤔
 
 - 📫 How to reach me: x: [just__steph_](https://x.com/just__steph_) mail: [stephanieoluoha20@gmail.com](mailto:stephanieoluoha20@gmail.com)
